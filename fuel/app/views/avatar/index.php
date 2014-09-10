@@ -59,7 +59,5 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script src="/assets/js/cropper.min.js"></script>
 <script src="/assets/js/crop-avatar.js"></script>
-<script type="text/javascript">
-</script>
 </body>
 </html>
